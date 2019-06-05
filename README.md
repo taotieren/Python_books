@@ -16,7 +16,7 @@
 本仓库启用了 LFS ，提交之前请确认 LFS 是否安装并启用，
 ```
 	# 克隆本仓库
-	git clone https://github.com/taotieren/guocui.git
+	git clone https://github.com/taotieren/Python_books.git
 	# 安装 LFS
 	git lfs install
 	# 添加需要使用 LFS 储存的文件格式，如：
